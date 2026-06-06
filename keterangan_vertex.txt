@@ -1,0 +1,35 @@
+============================================================
+  KETERANGAN VERTEX — SISTEM NAVIGASI BFS DESA KAUMAN
+  Navigasi Penyelamatan Korban Gempa | BASARNAS
+============================================================
+
+  A  :  Jalan Utama Jl. MH Thamrin
+  B  :  Musholla Al-Hidayah
+  C  :  SMPN 1 Bojonegoro
+  D  :  Warung Kopi Mak Bah
+  E  :  Hi Food Thamrin - Korean Asia Cafe
+  F  :  Nasi Tempong Banyuwangi
+  G  :  KB RA Nurul Ummah Kauman Bojonegoro
+  H  :  Sky Pool Cafe
+  I  :  TK Kartika IV-47 & KB Tunas Kartika
+  J  :  Sekretariat PC Ikatan Bidan Indonesia
+  K  :  Applestar Bojonegoro
+  L  :  Kantor Kepala Desa Kauman
+  M  :  Airlangga Education Center
+  N  :  Panti Asuhan Muslimat NU Nurur Rohmah 01
+  O  :  Masjid Agung Darussalam Bojonegoro
+  P  :  Rumah Sakit Aisyiyah Bojonegoro
+  Q  :  Alun-Alun Kabupaten Bojonegoro
+
+  terisolasi 
+  R1 : Kost Karyawan Single 
+  R2 : Danu Arta Phone 
+  R3 : Warung Sicin Sego Bancaan 
+  R4 : Pengadilan Agama Kelas IA Bojonegoro
+  R5 : PT Positif Media Citra
+
+============================================================
+  Total Vertex  : 17 titik
+  Titik Awal    : A (Jl. MH Thamrin)
+  Algoritma     : BFS (Breadth-First Search)
+============================================================
